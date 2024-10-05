@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kumar-mehul
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning c language
+- 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate as an intern
 - 📫 How to reach me- kmargora02@gmail.com / 7261827488
 
